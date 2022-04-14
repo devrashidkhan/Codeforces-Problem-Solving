@@ -41,9 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nearly_Lucky_Number_110A", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Translation_41A", "Translation_41A\Translation_41A.csproj", "{E82B01A6-EBD0-42A8-8806-97A4155437A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anton_Danik_734A", "Anton_Danik_734A\Anton_Danik_734A.csproj", "{5C144541-F6EA-43C5-A75F-5FE6EE5C3B39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anton_Danik_734A", "Anton_Danik_734A\Anton_Danik_734A.csproj", "{5C144541-F6EA-43C5-A75F-5FE6EE5C3B39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lucky_Division_122A", "Lucky_Division_122A\Lucky_Division_122A.csproj", "{F84ED1BD-8085-497B-BAAC-5AEA98D3F9DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lucky_Division_122A", "Lucky_Division_122A\Lucky_Division_122A.csproj", "{F84ED1BD-8085-497B-BAAC-5AEA98D3F9DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beautiful_Year_271A", "Beautiful_Year_271A\Beautiful_Year_271A.csproj", "{4A920F4D-164E-462B-BB4B-AEAE51711281}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{F84ED1BD-8085-497B-BAAC-5AEA98D3F9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F84ED1BD-8085-497B-BAAC-5AEA98D3F9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F84ED1BD-8085-497B-BAAC-5AEA98D3F9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A920F4D-164E-462B-BB4B-AEAE51711281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A920F4D-164E-462B-BB4B-AEAE51711281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A920F4D-164E-462B-BB4B-AEAE51711281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A920F4D-164E-462B-BB4B-AEAE51711281}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
